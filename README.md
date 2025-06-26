@@ -10,9 +10,6 @@
 
 ###
 
-<div align="right">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3BuYmpyazE5MHI5NW1qN3VmYzFoanlhcml1dGEzbXZhN21iZm13ZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/5argtR58g51Xq/giphy.gif"  />
-</div>
 
 ###
 
