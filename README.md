@@ -1,42 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=CaioTBarbieri&animation=fadeIn&section=footer&reversal=false&desc=Bem-vindo(a)%20ao%20meu%20perfil&descAlign=50&descAlignY=75)
-
-<h3>- Meu nome é Caio e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC!</h3>
-<h3>- Atualmente trabalhando em um projeto pessoal</h3>
-<h3>- Sempre buscando novos conhecimentos!</h3>
+# 💫 About Me:
+🔭 Estudante de ADS na FATEC!<br>🤝 Procurando a primeira oportunidade pra entrar no mercado de trabalho!<br>🌱 Estou estudando atualmente Java com SpringBoot e Javascript!<br>💬 Fazendo projetos pessoais
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/caiotb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:caiotbarbieri@gmail.com) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=CaioTBarbieri&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=CaioTBarbieri&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=CaioTBarbieri&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<div align="left">
-  <br>
-  <a href="https://github.com/CaioTBarbieri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioTBarbieri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioTBarbieri&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CaioTBarbieri&repo=CMotors&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&titlecolor=E94D5F&text_color=FFF)](https://github.com/CaioTBarbieri/CMotors)
-
- ### Hard skills
-
-   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="DevIcon-MySQL" height="65" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="DevIcon-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="DevIcon-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-
-</div>
-
-##
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/caiotb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:caiotbarbieri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/caiot._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=120&section=header&animation=fadeIn&fontSize=30)
-##
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
